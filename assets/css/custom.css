@@ -1,0 +1,29 @@
+.navbar-brand{
+    width: 7rem !important;
+}
+
+.main-nav{
+    background-color: black !important;
+}
+
+
+
+.nav-link{
+    color: #fdb819 !important;
+}
+
+.banner-area .banner-text h1{
+    font-size: 3rem !important;
+}
+
+footer{
+    padding-top: 30px;
+}
+
+.border-review{
+    border-radius: 50px !important;
+}
+
+.owl-stage{
+    margin-bottom:30px !important;
+}
