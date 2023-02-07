@@ -27,3 +27,15 @@ footer{
 .owl-stage{
     margin-bottom:30px !important;
 }
+
+.logo-tamanho{
+    width: 2.5rem !important;
+}
+
+.mean-bar{
+    background-color: black !important;
+}
+
+.navbar-nav{
+    background-color: black !important;
+}
